@@ -6,3 +6,5 @@ This file will just be a log that I add to add some changes that may not be seen
 
 2025-1-21.) After taking some time to learn CSS, I've made a base layout for the website. However, it's not the neatest / nicest website that has been seen, and the goal for this project isn't to delve that far into web development.
 and is to learn more about AWS services and backend development work.
+
+I went ahead and did two 'major' changes, I added the contact me to setup backend integration with AWS SES and AWS API Gateway. Im still learning on how to do it with python, so that feature will take some time to implement with this project.
