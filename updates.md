@@ -8,3 +8,5 @@ This file will just be a log that I add to add some changes that may not be seen
 and is to learn more about AWS services and backend development work.
 
 I went ahead and did two 'major' changes, I added the contact me to setup backend integration with AWS SES and AWS API Gateway. Im still learning on how to do it with python, so that feature will take some time to implement with this project.
+
+2025-2-1.) I have taken just a brief pause on this project as I caught the flu. Catching up with school work and then going to continue =)
